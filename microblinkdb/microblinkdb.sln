@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1913
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "microblinkdb", "microblinkdb\microblinkdb.sqlproj", "{95CF8C64-655F-4F9B-B445-0B2CFA918DE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95CF8C64-655F-4F9B-B445-0B2CFA918DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95CF8C64-655F-4F9B-B445-0B2CFA918DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95CF8C64-655F-4F9B-B445-0B2CFA918DE4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{95CF8C64-655F-4F9B-B445-0B2CFA918DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95CF8C64-655F-4F9B-B445-0B2CFA918DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95CF8C64-655F-4F9B-B445-0B2CFA918DE4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE545249-A2D8-4479-A82F-8CADDC7CA2B1}
+	EndGlobalSection
+EndGlobal
